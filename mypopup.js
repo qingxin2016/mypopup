@@ -72,10 +72,3 @@
     };
 
 }(jQuery));
-
-$('.edit').mypopup();
-$('.edit-one').mypopup();
-$('.edit-two').mypopup({
-    orignal:'.relative02',
-    target:'.dialog02'
-});
